@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="salmon_claro">#ffa07a</color>
+    <color name="salmon">#fa8072</color>
+    <color name="salmon_oscuro">#e9967a</color>
+    <color name="rojo_indio">#cd5c5c</color>
+    <color name="rojo">#ff0000</color>
+    <color name="rojo_oscuro">#8b0000</color>
+
+    <color name="pink">#ffc0cb</color>
+    <color name="pink_hot">#ff69b4</color>
+    <color name="red_violet">#c71585</color>
+
+    <color name="coral">#ff7f50</color>
+    <color name="orange_red">#ff4500</color>
+    <color name="orange">#Ffa500</color>
+    <color name="gold">#ffd700</color>
+    <color name="yellow">#ffff00</color>
+    <color name="ligth_yellow">#EAEA73</color>
+
+    <color name="violet">#ee82ee</color>
+    <color name="fuchsia">#ff00ff</color>
+    <color name="azul_violeta">#9400d3</color>
+    <color name="purple">#800080</color>
+    <color name="indigo">#4b0082</color>
+    <color name="slate_blue">#6a5acd</color>
+
+    <color name="green_yellow">#adff2f</color>
+    <color name="lima">#00ff00</color>
+    <color name="light_green">#90ee90</color>
+    <color name="pear">#74b72e</color>
+    <color name="green">#008000</color>
+    <color name="olive">#808000</color>
+
+    <color name="aquamarine">#7fffd4</color>
+    <color name="turquese">#00ffff</color>
+    <color name="steel_blue">#4682b4</color>
+    <color name="blue">#0000ff</color>
+    <color name="dark_blue">#00008b</color>
+    <color name="midnight_blue">#191970</color>
+
+    <color name="bisque">#ffe4c4</color>
+    <color name="burly_wood">#deb887</color>
+    <color name="peru">#cd853f</color>
+    <color name="chocolate">#d2691e</color>
+    <color name="sienna">#a0522d</color>
+    <color name="brown">#800000</color>
+
+    <color name="light_gray">#d3d3d3</color>
+    <color name="silver">#c0c0c0</color>
+    <color name="gray">#808080</color>
+    <color name="slate_gray">#708090</color>
+</resources>
